@@ -1,0 +1,22 @@
+Emp Id,Emp Name,Number of days present,Time Type,Designation
+Emp 1,John Doe,20,Billable,Software Engineer
+Emp 2,Jane Smith,18,Billable,Developer
+Emp 3,Michael Johnson,22,Non-Billable,Senior Software Engineer
+Emp 4,Sarah Williams,21,Billable,IT Consultant
+Emp 5,David Brown,19,Non-Billable,Software Engineer
+Emp 6,Emily Davis,22,Billable,IT Consultant
+Emp 7,Robert Wilson,20,Billable,Developer
+Emp 8,Emma Taylor,22,Billable,Senior Software Engineer
+Emp 9,Matthew Anderson,17,Non-Billable,IT Consultant
+Emp 10,Olivia Martinez,20,Billable,Senior Software Engineer
+Emp 11,William Thomas,22,Billable,Developer
+Emp 12,Sophia Garcia,19,Non-Billable,IT Consultant
+Emp 13,James Rodriguez,21,Non-Billable,Software Engineer
+Emp 14,Ava Hernandez,22,Billable,Senior Software Engineer
+Emp 15 ,Joseph Lopez,18,Non-Billable,Developer
+Emp 16,Mia Gonzalez,22,Billable,Senior Software Engineer
+Emp 17,Charles Perez,16,Billable,Software Engineer
+Emp 18,Lily Torres,20,Non-Billable,Senior Software Engineer
+Emp 19,Andrew Flores,22,Billable,Developer
+Emp 20,Abigail Ramirez,21,Billable,IT Consultant
+,,,,

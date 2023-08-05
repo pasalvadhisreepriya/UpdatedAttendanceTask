@@ -1,0 +1,28 @@
+For Total Billable Hours,,,,,,
+,,,,,,
+Emp Id,Emp Name,Number of days present,Time Type,Designation,Total Billable Hours,Bill Rate
+Emp 1,John Doe,20,Billable,Software Engineer,160,70
+Emp 2,Jane Smith,18,Billable,Developer,144,50
+Emp 4,Sarah Williams,21,Billable,IT Consultant,168,60
+Emp 6,Emily Davis,22,Billable,IT Consultant,176,90
+Emp 7,Robert Wilson,20,Billable,Developer,160,60
+Emp 8,Emma Taylor,22,Billable,Senior Software Engineer,176,95
+Emp 10,Olivia Martinez,20,Billable,Senior Software Engineer,160,90
+Emp 11,William Thomas,22,Billable,Developer,176,70
+Emp 14,Ava Hernandez,22,Billable,Senior Software Engineer,176,95
+Emp 16,Mia Gonzalez,22,Billable,Senior Software Engineer,176,95
+Emp 17,Charles Perez,16,Billable,Software Engineer,128,50
+Emp 19,Andrew Flores,22,Billable,Developer,176,90
+Emp 20,Abigail Ramirez,21,Billable,IT Consultant,168,60
+,,,,,,
+For Total Non-Billable Hours,,,,,,
+,,,,,,
+Emp Id,Emp Name,Number of days present,Time Type,Designation,Total Non-Billable Hours,Bill Rate
+Emp 3,Michael Johnson,22,Non-Billable,Senior Software Engineer,176,95
+Emp 5,David Brown,19,Non-Billable,Software Engineer,152,60
+Emp 9,Matthew Anderson,17,Non-Billable,IT Consultant,136,40
+Emp 12,Sophia Garcia,19,Non-Billable,IT Consultant,152,50
+Emp 13,James Rodriguez,21,Non-Billable,Software Engineer,168,70
+Emp 15 ,Joseph Lopez,18,Non-Billable,Developer,144,50
+Emp 18,Lily Torres,20,Non-Billable,Senior Software Engineer,160,90
+,,,,,,

@@ -1,0 +1,18 @@
+Prompt 1:- 
+
+Create a csv file format for 20 employees with the fields Emp Id, Emp Name, Number of days present(Consider 22 are the working days of june month and some employees took leaves for some random days), Time Type(billable/non-billable and Consider some random employees as billable and some as non-billable), Designation(Software Engineer/Senior Software Engineer/Developer/IT Consultant and Consider random designations for random employees).
+
+Result :- Emp_Attendance_List.csv
+
+Prompt 2:-
+
+
+Generate the csv file format to calculate Total Billable Hours and Bill Rate for the employees of "Time Type" as billable from the file provided and consider Total billable hours as 8, Bill Rate-Variable on the basis of designation(Software Engineer/Senior Software Engineer/Developer/IT Consultant). Take some random values for Designation to calculate Bill Rate and calculate the Total Billable Hours by multiplying the "Number of days present" field by 8.
+
+Result :- Total_BillableHours&Bill_Rate.csv
+
+Prompt 3:-
+
+Provide a csv file to calculate the percentage of employee productivity for both billable and non-billable employees by the provided formula for Billable productivity as Billable Productivity % is equal to (Total Billable Hours divided by Number of days present) multiplied by 100 and for Non-Billable productivity as Non-Billable Productivity % is equal to (Total Non-Billable Hours divided by Number of days present) multiplied by 100.
+
+Result :- Productivity.csv
